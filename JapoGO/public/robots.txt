@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://JapoGo.com
+
+# Sitemaps
+Sitemap: https://JapoGo.com/sitemap.xml
